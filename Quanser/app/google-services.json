@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622871226382",
+    "project_id": "quanser-b3422",
+    "storage_bucket": "quanser-b3422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622871226382:android:3230182c26214051ca345f",
+        "android_client_info": {
+          "package_name": "com.example.quanser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622871226382-9ehin2nptc4955slesog8m1r65emusj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quanser",
+            "certificate_hash": "5e1748e3453fdd2c689eae9b0c26f14133e09b1d"
+          }
+        },
+        {
+          "client_id": "622871226382-3nn58vui4e5fkos00l35ih9rrfprhabv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1quqsDoe2_P8UhP7Q-vYpvIr-9xPK7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622871226382-3nn58vui4e5fkos00l35ih9rrfprhabv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
